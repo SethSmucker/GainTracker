@@ -1,25 +1,25 @@
 .container{
-
-    background: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+    padding: 0;
+    margin: 0;
+  
+    list-style-type: none;
     border-style: solid;
-    border-color: orange;
-    border-radius: 32px 0px 0px 0px;
-    
+    padding: 8px;
 }
 
 .selected { 
 
-   border: white;
-   background: black; 
-   color: red;
-   border-style: solid;
+    color: black
 
 }
 
 .unselected {
 
-    border: black;
-    background: white;
-    color: orange;
-    border-style: solid;
+    color: grey
+
 }
+

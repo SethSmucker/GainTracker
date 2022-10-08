@@ -13,11 +13,13 @@ function GainSorter(props) {
         type='text'
         id='query'
         name='sort'
+        placeholder="search..."
         selected={currentSort === 'query'}
         onChange={(e) => {
           sortByQuery(e.target.value);
         }}
       />
+      <br></br>
       <input
         type='radio'
         id='done'

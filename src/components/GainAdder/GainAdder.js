@@ -49,7 +49,7 @@ function GainAdder() {
             setShowGainAdder(true);
           }}
         >
-          +
+          Add Gain
         </button>
       )}
     </div>

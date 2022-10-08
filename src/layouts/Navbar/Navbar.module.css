@@ -17,11 +17,8 @@
 
 .container {
   border-style: solid;
-  border-width: 2px;
   padding: 8px;
   margin: 8px 8px 0px 8px;
-  background-color: black;
-  border-radius: 0px 32px;
 }
 
 .navbar {
@@ -40,7 +37,8 @@
   font-size: xxx-large;
   padding: 0px;
   margin: 0px;
-  color: white;
+  color: black;
+  text-align: center;
 }
 
 .title:hover {
@@ -49,13 +47,10 @@
 
 .link {
   opacity: 100%;
-  background-image: linear-gradient(to right, red, orange);
   flex: 1;
   font-size: xx-large;
   text-decoration: none;
   text-align: left;
-
-  border-radius: 0px 16px;
 
   margin: 4px;
   padding: 4px 12px;

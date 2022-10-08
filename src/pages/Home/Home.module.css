@@ -1,33 +1,29 @@
 .container {
   margin: 8px 8px 0px 8px;
-  background-color: black;
-  border-radius: 32px 0px;
+  border: solid;
   color: black;
-  padding: 16px;
+  padding: 8px;
 }
 
 .gridLayout {
   display: grid;
   grid-template-areas: 's g';
   grid-template-columns: 50% 50%;
-  
 
 }
 
 .graphContainer {
 
   grid-area: 'g';
-  background: white;
-  border-radius: 16px  0px ;
   padding:16px;
   
 }
 
 .gotdTitle{
 
-    text-align: center;
-    font-size: xx-large;
-    margin: 0px, 0px, 0px, 16px;
-    color:white;
+  text-align: center;
+  font-size: xx-large;
+  margin: 0px, 0px, 0px, 16px;
+  color:black;
 
 }

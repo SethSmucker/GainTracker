@@ -1,0 +1,25 @@
+.container{
+
+    background: black;
+    border-style: solid;
+    border-color: orange;
+    border-radius: 32px 0px 0px 0px;
+    
+}
+
+.selected { 
+
+   border: white;
+   background: black; 
+   color: red;
+   border-style: solid;
+
+}
+
+.unselected {
+
+    border: black;
+    background: white;
+    color: orange;
+    border-style: solid;
+}

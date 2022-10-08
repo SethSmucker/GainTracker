@@ -1,0 +1,21 @@
+Currently Working On:
+
+
+Finished When:
+
+//Level 1 Setup
+ [X] Add Gain button
+ [X] Graphs to track each gain's trends
+ [X] Gains can only be incremented once a day
+ [X] YAY animation plays when you check one off
+ [X] Search gains by name
+ [X] Sort gains alphabetically and by number of days
+ [ ] Remove non-structural CSS
+ [ ] Gains are reset at midnight
+
+//Level 2 Setup
+ [ ] Gain groupings (music, programming, etc, custom groups?)
+ [ ] User Profiles
+
+//UI/UX
+ [ ] Different color schemes / MaterialUI

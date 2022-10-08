@@ -1,0 +1,71 @@
+@keyframes fadeIn {
+  0% {
+    opacity: 100%;
+  }
+  100% {
+    opacity: 75%;
+  }
+}
+
+.card {
+  opacity: 100%;
+  display: flex;
+  border-radius: inherit;
+  border-width: 2px;
+  border-style: hidden;
+  border-radius: 16px 0px;
+
+  padding: 8px;
+  margin: 4px;
+  background-image: black;
+  font-size: xx-large;
+  overflow: hidden;
+  white-space: nowrap;
+
+  background-image: linear-gradient(to right, red, orange);
+}
+
+.cardDone {
+  opacity: 25%;
+  display: flex;
+  border-radius: inherit;
+  border-width: 2px;
+  border-style: hidden;
+  border-radius: 16px 0px;
+
+  padding: 8px;
+  margin: 4px;
+  background-image: black;
+  font-size: xx-large;
+  overflow: hidden;
+  white-space: nowrap;
+
+  background-image: linear-gradient(to right, red, orange);
+}
+
+.counter {
+  border-radius: 10px 0px 10px 0px;
+  font-size: inherit;
+  border-style: none;
+  color: white;
+  background-color: black;
+  padding: 0px 8px;
+}
+
+.title {
+  font-size: inherit;
+  margin-left: 4px;
+  color:black;
+}
+
+.titleDone{
+  font-size: inherit;
+  margin-left: 4px;
+  color:black;
+  text-decoration: line-through;
+}
+
+.card:hover {
+  opacity: 66%;
+  cursor:pointer;
+}

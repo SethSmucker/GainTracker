@@ -1,0 +1,73 @@
+@keyframes fadeIn {
+  0% {
+    opacity: 25%;
+  }
+  100% {
+    opacity: 100%;
+  }
+}
+
+@keyframes strobe{
+  0%{color: red}
+  25%{color: yellow}
+  50%{color: greenyellow}
+  75%{color: cyan}
+  100%{color: rgb(224, 31, 224)}
+}
+
+.container {
+  border-style: solid;
+  border-width: 2px;
+  padding: 8px;
+  margin: 8px 8px 0px 8px;
+  background-color: black;
+  border-radius: 0px 32px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 0;
+  margin: 0;
+
+  list-style: none;
+}
+
+.title {
+  opacity: 100%;
+  font-size: xxx-large;
+  padding: 0px;
+  margin: 0px;
+  color: white;
+}
+
+.title:hover {
+  animation: strobe .5s infinite;
+}
+
+.link {
+  opacity: 100%;
+  background-image: linear-gradient(to right, red, orange);
+  flex: 1;
+  font-size: xx-large;
+  text-decoration: none;
+  text-align: left;
+
+  border-radius: 0px 16px;
+
+  margin: 4px;
+  padding: 4px 12px;
+
+  vertical-align: middle;
+}
+
+.link:link,
+.link:visited {
+  color: black;
+}
+
+.link:hover {
+  opacity: 66%;
+}

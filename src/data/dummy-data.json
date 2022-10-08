@@ -1,0 +1,49 @@
+{
+  "lastUpdate": "2022-10-7",
+  "gains": [
+    {
+      "title": "Lonely Day",
+      "counter": 0,
+      "doneToday": false,
+      "daysDone": [
+        "2022-09-01", 
+        "2022-09-07",
+        "2022-09-14"
+      ]
+    },
+    {
+      "title": "Pentatonic Boxes",
+      "counter": 10,
+      "doneToday": false,
+      "daysDone": [
+        "2022-09-03", 
+        "2022-09-10",
+        "2022-09-17"
+      ]
+    },
+    {
+      "title": "Slap",
+      "counter": 0,
+      "doneToday": false,
+      "daysDone": [
+        "2022-07-20"
+      ]
+    },
+    {
+      "title": "Sing while playing",
+      "counter": 1,
+      "doneToday": false,
+      "daysDone": []
+    },
+    {
+      "title": "Program in Anguler",
+      "counter": 0,
+      "doneToday": true,
+      "daysDone": [
+        "2022-09-16", 
+        "2022-09-12",
+        "2022-09-05"
+      ]
+    }
+  ]
+}

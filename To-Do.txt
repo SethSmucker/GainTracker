@@ -3,19 +3,26 @@ Currently Working On:
 
 Finished When:
 
-//Level 1 Setup
+//Basic Guts
  [X] Add Gain button
  [X] Graphs to track each gain's trends
  [X] Gains can only be incremented once a day
  [X] YAY animation plays when you check one off
  [X] Search gains by name
  [X] Sort gains alphabetically and by number of days
- [ ] Remove non-structural CSS
+ [X] Remove non-structural CSS
  [ ] Gains are reset at midnight
+ [ ] Edit gain button
 
-//Level 2 Setup
- [ ] Gain groupings (music, programming, etc, custom groups?)
- [ ] User Profiles
+//User Profiles
+ [ ] Refactor code to account for multiple users
+ [ ] Add sign-in feature / Logout feature
+
+//Groups
+ [ ] Apply groups colors
+ [ ] Show group emoji
+ [ ] Add "Select Group" dropdown to the "Add Gain" modal
+
 
 //UI/UX
  [ ] Different color schemes / MaterialUI

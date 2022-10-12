@@ -22,6 +22,16 @@ export function pushDummyData(cb) {
     console.log('All dummy data pushed!');
     cb();
   });
+
+  fetch(
+    'https://practice-tracker-v3-default-rtdb.firebaseio.com/.json',
+    {
+      method: 'POST',
+      body: JSON.stringify(dummyData["lastRefreshDate"]),
+      headers: {
+        'Content-Type': 'applocation/json',
+      },
+    })
 }
 
 export function clearAllData(cb) {

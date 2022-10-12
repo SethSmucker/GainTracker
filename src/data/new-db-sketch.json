@@ -1,0 +1,116 @@
+{
+  "userData": {
+    "users": [
+      {
+        "username": "WORKOUTMAN420",
+        "password": "weightGOD123",
+        "lastRefreshDate": "2022-10-7",
+        "groups": [
+          {
+            "title": "Workout",
+            "color": "#FF0000",
+            "emoji": "💪"
+          },
+          {
+            "title": "Cupcake",
+            "color": "#FF6688",
+            "emoji": "🐕"
+          }
+        ],
+        "gains": [
+          {
+            "title": "Leg Day",
+            "group": "Workout",
+            "counter": 0,
+            "doneToday": false,
+            "daysDone": ["2022-09-01", "2022-09-07", "2022-09-14"]
+          },
+          {
+            "title": "Chest / Back / Biceps",
+            "group": "Workout",
+            "counter": 68,
+            "doneToday": false,
+            "daysDone": ["2022-09-03", "2022-09-10", "2022-09-17"]
+          },
+          {
+            "title": "Tri / Core",
+            "group": "Workout",
+            "counter": 68,
+            "doneToday": false,
+            "daysDone": ["2022-09-03", "2022-09-10", "2022-09-17"]
+          },
+          {
+            "title": "Walk Cupcake",
+            "group": "Cupcake",
+            "counter": 623,
+            "doneToday": false,
+            "daysDone": ["2022-09-03", "2022-09-10", "2022-09-17"]
+          },
+          {
+            "title": "Play with Cupcacke",
+            "group": "Cupcake",
+            "counter": 809,
+            "doneToday": false,
+            "daysDone": ["2022-09-03", "2022-09-10", "2022-09-17"]
+          }
+        ]
+      },
+      {
+        "username": "NatureGal420",
+        "password": "beansX100",
+        "lastRefreshDate": "2022-10-7",
+        "groups": [
+          {
+            "title": "Upkeeps",
+            "color": "#AAAAAA",
+            "emoji": "🔄"
+          },
+          {
+            "title": "Terrariums",
+            "color": "#43FD67",
+            "emoji": "🌱"
+          }
+        ],
+        "gains": [
+          {
+            "title": "Make Bed",
+            "group": "Upkeeps",
+            "counter": 56,
+            "doneToday": false,
+            "daysDone": ["2022-09-01", "2022-09-07", "2022-09-14"]
+          },
+          {
+            "title": "Water Plants",
+            "group": "Upkeeps",
+            "counter": 59,
+            "doneToday": false,
+            "daysDone": ["2022-09-01", "2022-09-07", "2022-09-14"]
+          },
+          {
+            "title": "Feed Roxie",
+            "group": "Upkeeps",
+            "counter": 100,
+            "doneToday": false,
+            "daysDone": ["2022-09-01", "2022-09-07", "2022-09-14"]
+          },
+          {
+            "title": "Build New Terrarium",
+            "group": "Terrariums",
+            "counter": 506,
+            "doneToday": false,
+            "daysDone": ["2022-09-01", "2022-09-07", "2022-09-14"]
+          },
+          {
+            "title": "Organize Materials",
+            "group": "Terrariums",
+            "counter": 56,
+            "doneToday": false,
+            "daysDone": ["2022-09-01", "2022-09-07", "2022-09-14"]
+          }
+        ]
+      }
+    ]
+  },
+
+  "systemData": {}
+}
